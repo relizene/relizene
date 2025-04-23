@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @relizene
-- 👀 I’m interested in automation, data analysis, and problem-solving through code
-- 🌱 I’m currently learning Python-Django, Flask
-- 💞️ I’m looking to collaborate on (https://github.com/relizene/relizene.github.io)
-- 📫 How to reach me Telegram: @Valodyaaa | Email: vovaegorov689@gmail.com
+Hi, I’m Vladimir 👋
+
+
+I'm Backend developer to python and my work focuses in web-programming "\n😄"
+
+I like solve problem into conding, and so important for me it's strive in progress IT. Open for growth project
+
+- 📫 How to reach me:
+-    Telegram: @Valodyaaa
+-    Email: vovaegorov689@gmail.com
+-    Websites: http:\\www.someone.com
+
+
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I can solve a Rubik's Cube in under 2 minutes!
 
