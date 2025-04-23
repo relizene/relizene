@@ -8,7 +8,7 @@ I enjoy solving coding challenges and continuously growing in IT. Open to projec
 📫 How to reach me:
 - **Telegram**: [@Valodyaaa](https://t.me/Valodyaaa)
 - **Email**: [vovaegorov689@gmail.com](mailto:vovaegorov689@gmail.com)
-- **Website**: [someone.com](https://www.github.com/relizene)
+- **Website**: [github.come/relizene](https://www.github.com/relizene)
 - 
 🔧 Tech Stack: (Python, Django, Flask, PostgreSQL, MySQL, HTML, CSS, C, Dockers).
 
