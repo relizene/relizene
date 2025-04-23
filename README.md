@@ -1,17 +1,15 @@
-Hi, I’m Vladimir 👋
+**Hi, I’m Vladimir 👋**
 
 
-I'm Backend developer to python and my work focuses in web-programming "\n😄"
+I'm a **Python Backend Developer** focused on web programming. "\n😄"
 
-I like solve problem into conding, and so important for me it's strive in progress IT. Open for growth project
-
+I enjoy solving coding challenges and continuously growing in IT. Open to projects that drive professional growth
 
 📫 How to reach me:
--    Telegram: @Valodyaaa
--    Email: vovaegorov689@gmail.com
--    Websites: www.someone.com
+- **Telegram**: [@Valodyaaa](https://t.me/Valodyaaa)
+- **Email**: [vovaegorov689@gmail.com](mailto:vovaegorov689@gmail.com)
+- **Website**: [someone.com](https://www.someone.com)
 
-
- 😄 Pronouns: He, Him
- ⚡ Fun fact: I can solve a Rubik's Cube in under 2 minutes!
+😄 Pronouns: **He/Him**  
+⚡ Fun fact: **I can solve a Rubik's Cube in under 2 minutes!**
 
