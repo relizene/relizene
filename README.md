@@ -5,10 +5,10 @@ I'm Backend developer to python and my work focuses in web-programming "\n😄"
 
 I like solve problem into conding, and so important for me it's strive in progress IT. Open for growth project
 
-- 📫 How to reach me:
+📫 How to reach me:
 -    Telegram: @Valodyaaa
 -    Email: vovaegorov689@gmail.com
--    Websites: http:\\www.someone.com
+-    Websites: www.someone.com
 
 
 - 😄 Pronouns: He, Him
