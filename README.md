@@ -10,7 +10,7 @@ I enjoy solving coding challenges and continuously growing in IT. Open to projec
 - **Email**: [vovaegorov689@gmail.com](mailto:vovaegorov689@gmail.com)
 - **Website**: [github.com/relizene](https://www.github.com/relizene)
 - 
-🔧 Tech Stack: (Python, Django, Flask, PostgreSQL, MySQL, HTML, CSS, C, Dockers).
+🔧 Tech Stack: (Python, HTML, CSS, Django, Flask, BD, Dockers, Git, GitHub).
 
 😄 Pronouns: **He/Him**  
 ⚡ Fun fact: **I can solve a Rubik's Cube in under 2 minutes!**
